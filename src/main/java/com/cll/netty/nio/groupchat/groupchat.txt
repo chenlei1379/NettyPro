@@ -1,0 +1,2 @@
+聊天室功能
+使用NIO SocketChannel、ServerSocketChannel、Selector、SelectionKey、ByteBuffer实现
